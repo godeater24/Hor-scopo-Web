@@ -1,0 +1,7 @@
+/* styles.css */
+.hidden {
+  display: none;
+}
+#message {
+  transition: opacity 1s;
+}

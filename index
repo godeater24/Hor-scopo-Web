@@ -1,0 +1,4 @@
+<!-- index.html -->
+<input type="text" id="birthdate" placeholder="DD-MM-AAAA" />
+<button id="consult" disabled>Consultar</button>
+<div id="message" class="hidden"></div>
